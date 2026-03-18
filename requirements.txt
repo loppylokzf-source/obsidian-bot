@@ -1,3 +1,4 @@
-aiogram==3.7.0
-aiohttp
-aiosqlite
+aiogram==3.4.1
+aiohttp==3.9.3
+aiosqlite==0.20.0
+pydantic==2.6.1
