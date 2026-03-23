@@ -263,8 +263,7 @@ def TX(lang: str) -> dict:
             "От Telegram-подарков и NFT до токенов TON и фиата – сделки проходят легко, быстро и без риска.\n\n"
             "🔹 Автоматическое сопровождение каждой сделки\n"
             "🔹 Партнёрская программа с мгновенными выплатами\n\n"
-            "📖 <b>Как пользоваться?</b>\n"
-            "Ознакомьтесь с инструкцией — <a href=\"https://твояссылка.ру\">https://твояссылка.ру</a>\n\n"
+            "📖 <b>Возникли вопросы?</b>\nНапишите нам — @obsidian_help\n\n"
             "Выберите нужный раздел ниже:"
         ),
         "wallet_menu": (
@@ -384,8 +383,7 @@ def TX(lang: str) -> dict:
             "From Telegram gifts and NFTs to TON tokens and fiat – deals go smoothly, fast and risk-free.\n\n"
             "🔹 Automatic escrow for every deal\n"
             "🔹 Referral program with instant payouts\n\n"
-            "📖 <b>How to use?</b>\n"
-            "Read the guide — <a href=\"https://твояссылка.ру\">https://твояссылка.ру</a>\n\n"
+            "📖 <b>Have questions?</b>\nContact us — @obsidian_help\n\n"
             "Select a section below:"
         ),
         "wallet_menu": (
